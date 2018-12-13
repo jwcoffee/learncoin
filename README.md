@@ -44,7 +44,7 @@ controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/altcryptomining/learncoin/tags) are created
-regularly to indicate new official, stable release versions of Learncoin.
+regularly to indicate new official, stable release versions of Pccoin.
 
 Testing
 -------
