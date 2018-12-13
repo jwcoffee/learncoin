@@ -4,7 +4,7 @@ Learncoin integration/staging tree
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 pccoin Developers
 
-What is Learncoin?
+What is Pccoin?
 ----------------
 
 pccoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
