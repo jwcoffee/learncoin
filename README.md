@@ -2,7 +2,7 @@ Pccoin integration/staging tree
 ================================
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 pccoin Developers
+Copyright (c) 2018- pccoin Developers
 
 What is Pccoin?
 ----------------
