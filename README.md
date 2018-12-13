@@ -1,4 +1,4 @@
-Learncoin integration/staging tree
+Pccoin integration/staging tree
 ================================
 
 Copyright (c) 2009-2014 Bitcoin Developers
@@ -31,7 +31,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Learncoin
+If it is a simple/trivial/non-controversial change, then one of the Pccoin
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -67,5 +67,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
     qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
     make -f Makefile.test
-    ./learncoin-qt_test
+    ./Pccoin-qt_test
 
